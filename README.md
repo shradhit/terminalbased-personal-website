@@ -1,3 +1,2 @@
-# AjitR.github.io
-
+# shradhit.com/{extentions}
 Personal Website 
